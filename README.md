@@ -7,9 +7,10 @@
 
 - 📫 How to reach me spsp8426@gmail.com
 
-<h3 align="left">Connect with me:![](https://dcbadge.vercel.app/api/shield/191843287806640128)</h3>
 
-<p align="left">
+
+<p align="center">
+  about me ![](https://dcbadge.vercel.app/api/shield/191843287806640128)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

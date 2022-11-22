@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trophy198</h1>
 <h3 align="center">Web frontend developer</h3>
 
-- 🌱 I’m currently learning Frameworks,java,SQL
+- 🌱 I’m currently learning Frameworks,java,SQL,react,discordjs
 
 - 💬 Ask me about react,discordjs
 
 - 📫 How to reach me spsp8426@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:![](https://dcbadge.vercel.app/api/shield/191843287806640128)</h3>
 <p align="left">
 </p>
 

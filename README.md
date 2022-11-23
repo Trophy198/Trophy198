@@ -7,6 +7,7 @@
 
 - 📫 How to reach me spsp8426@gmail.com
 <p align="center">
+<img src="https://img.shields.io/badge/Discord-trophy%237777-%237289DA?style=flat&logo=discord" alt="discord"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

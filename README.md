@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Frameworks,java,SQL,react,discordjs
 
 - 💬 Ask me about react,discordjs
-
-- 📫 How to reach me spsp8426@gmail.com
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-trophy%237777-%237289DA?style=flat&logo=discord" alt="discord"/>
 </p>

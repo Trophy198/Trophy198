@@ -7,7 +7,7 @@
 </div>
 
 
-- 🌱 I’m currently learning react,discordjs
+- 🌱 I’m currently learning react,nextjs,discordjs
 
 - 💬 Ask me about react,discordjs
 <p align="center">

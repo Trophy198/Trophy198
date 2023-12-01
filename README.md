@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trophy198</h1>
+<h1 align="center">Hi👋, I'm Trophy198</h1>
 <h3 align="center">Web frontend developer</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

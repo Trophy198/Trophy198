@@ -6,7 +6,6 @@
 </a>
 </div>
 
-
 - 🌱 I’m currently learning react, typescript, nextjs, discordjs
 
 - 💬 Ask me about react, nextjs

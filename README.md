@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning react, typescript, nextjs, discordjs
 
 - 💬 Ask me about react, nextjs
+- 
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-trophy198-%237289DA?style=flat&logo=discord" alt="discord"/>
 </p>

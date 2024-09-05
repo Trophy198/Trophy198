@@ -2,7 +2,7 @@
 <h3 align="center">Web frontend developer</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trophy198&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trophy198&theme=dark&show_icons=true"/>
 </a>
 </div>
 

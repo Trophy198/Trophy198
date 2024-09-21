@@ -5,7 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trophy198&theme=dark&show_icons=true"/>
 </a>
 </div>
-
 - 🌱 I’m currently learning react, typescript, nextjs, discordjs
 
 - 💬 Ask me about react, nextjs
